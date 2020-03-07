@@ -38,7 +38,6 @@
 import PulseLoader from 'vue-spinner/src/PulseLoader.vue'
 import Card from '@/components/Card.vue'
 import notFoundImage from '../assets/notFound.png'
-
 export default {
   name: 'Home',
   components: {
