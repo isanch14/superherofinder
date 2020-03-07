@@ -5,7 +5,7 @@
         :value="searchItem"
         type="text"
         class="form-input mt-1 block w-full"
-        placeholder="Search a Superhero, example: Thor"
+        placeholder="Search a Superhero, example: Hulk"
         @change="setSearchItem"
       />
     </label>
